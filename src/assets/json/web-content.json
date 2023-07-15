@@ -1,0 +1,87 @@
+{
+    "data": {
+        "appointment": {
+            "title": "Tạo cuộc hẹn gần tại<br>thương hiệu yêu thích",
+            "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Sem urna sed tellus gravida hendrerit arcu imperdiet quis.Ultricies faucibus facilisi magna quam est eu, sit nisi.",
+            "partnerBrandTitle": "Tự hào đồng hành cùng"
+        },
+        "nearBuy": {
+            "title": "Tìm mua tại<br> thương hiệu gần nhất",
+            "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sem urna sed tellus gravida hendrerit arcu imperdiet quis. Ultricies faucibus facilisi magna quam est eu, sit nisi.",
+            "brandTitle": "Hơn 500 thương hiệu chính chủ trên app gannha.com",
+            "nearBuyButton": "Mua tại cửa hiệu gần nhất trên gannha.com",
+            "tabTitle1": "Tìm gần <br>tức thì",
+            "tabTitle2": "Ưu đãi <br> gần nhất",
+            "tabTitle3": "Đặt hàng <br> giao ngay"
+        },
+        "nearJob": {
+            "title": "Việc làm thật,<br class='display-desktop'> đi làm gần!",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sem urna sed tellus gravida hendrerit arcu imperdiet quis. Ultricies faucibus facilisi magna quam est eu, sit nisi.",
+            "partnerRecruiter": "Hơn 50 nhà tuyển dụng uy tín",
+            "findJobButton": "Tìm ngay việc làm trên web"
+        },
+        "forRetail": {
+            "title": "Dành cho nhà bán lẻ",
+            "subTitle": "Ứng dụng tinh gọn nhận đơn đặt hàng gần & tích hợp giao hàng nhanh, cod",
+            "feature1": {
+                "title": "Nhận đơn hàng với phí 0 đồng",
+                "text": "Nhận đơn hàng - Cập nhập sản phẩm, giá bán tức thì với giá dịch vụ 0 đồng"
+            },
+            "feature2": {
+                "title": "Không lo giao hàng",
+                "text": "Locator đã tích hợp kết nối tự động với các đơn vị giao hàng, tích hợp sẵn trong đơn đặt hàng."
+            },
+            "feature3": {
+                "title": "Quảng cáo 0 đồng",
+                "text": "Tạo quảng cáo: hàng mới về, ưu đãi giờ vàng với phí 0 đồng trên nền tảng kết nối đa dịch vụ 'gannha.com'"
+            }
+        },
+        "article": {
+            "title": "Báo chí nói gì <br class='display-desktop'>về gần nhà",
+            "news": [
+                {
+                    "id": "1",
+                    "link": "https://blogs.gannha.com/ve-gan-nha/gannha-com-ung-dung-hen-gan-tim-gan-huu-ich/",
+                    "title": "[HTV] gannha.com – Ứng dụng “Hẹn gần tìm gần” hữu ích",
+                    "image": "assets/images/article1.jpg",
+                    "date": ""
+                },
+                {
+                    "id": "2",
+                    "link": "https://blogs.gannha.com/ve-gan-nha/htv-ung-dung-ket-noi-diem-ban-gannha-com/",
+                    "title": "[HTV] Ứng dụng kết nối điểm bán gannha.com",
+                    "image": "assets/images/article2.jpg",
+                    "date": ""
+                },
+                {
+                    "id": "3",
+                    "link": "https://blogs.gannha.com/ve-gan-nha/vietnambiz-ong-truong-gia-binh-startup-dung-qua-tham-lam-khi-bat-dau-du-an/",
+                    "title": "[Vietnambiz] Ông Trương Gia Bình: ‘Startup đừng quá tham lam khi bắt đầu dự án’",
+                    "image": "assets/images/article3.jpg",
+                    "date": ""
+                },
+                {
+                    "id": "4",
+                    "link": "https://blogs.gannha.com/ve-gan-nha/vtv1-gannha-com-nen-tang-ket-noi-nhu-cau-tuc-thi-den-thuong-hieu-chinh-chu/",
+                    "title": "[VTV1] gầnnhà.com – Nền tảng kết nối nhu cầu tức thì đến thương hiệu chính chủ",
+                    "image": "assets/images/article4.jpg",
+                    "date": ""
+                },
+                {
+                    "id": "5",
+                    "link": "https://blogs.gannha.com/ve-gan-nha/techport-vn-nen-tang-gannha-com-khi-ba-con-xa-khong-bang-lang-gieng-gan/",
+                    "title": "[Techport.vn] Nền tảng gannha.com – Khi bà con xa không bằng láng giềng gần.",
+                    "image": "assets/images/article4.jpg",
+                    "date": ""
+                },
+                {
+                    "id": "6",
+                    "link": "https://blogs.gannha.com/ve-gan-nha/bo-cong-thuong-gannha-com-ket-noi-nguoi-mua-va-chuoi-thuong-hieu-gan-nhat/",
+                    "title": "[Bộ Công Thương] gầnnhà.com – Kết nối người mua và chuỗi thương hiệu gần nhất",
+                    "image": "assets/images/article4.jpg",
+                    "date": ""
+                }
+            ]
+        }
+    }
+}

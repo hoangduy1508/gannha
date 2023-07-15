@@ -1,0 +1,173 @@
+.footer {
+  padding-top: 50px;
+  background-color: #1d1c1c;
+  color: #b7b7b7; }
+  .footer .footer-inner {
+    padding-bottom: 15px; }
+    .footer .footer-inner .footer-top {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px solid #424141;
+      padding-bottom: 20px;
+      margin-bottom: 30px;
+      align-items: center; }
+      .footer .footer-inner .footer-top .footer-logo img {
+        width: 180px; }
+      .footer .footer-inner .footer-top .footer-nav .footer-nav-menu {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-bottom: 0px; }
+        .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item {
+          margin-right: 20px;
+          position: relative; }
+          .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item:after {
+            content: "";
+            position: absolute;
+            top: calc(50% - 6px);
+            right: -12px;
+            height: 13px;
+            width: 2px;
+            background: #b7b7b7; }
+          .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item:last-of-type {
+            margin-right: 0px; }
+            .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item:last-of-type:after {
+              display: none; }
+          .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item a {
+            font-size: 14px;
+            font-weight: 700;
+            color: #b7b7b7; }
+    .footer .footer-inner .footer-body {
+      display: flex;
+      justify-content: space-between; }
+      .footer .footer-inner .footer-body .company-info {
+        padding-right: 30px; }
+        .footer .footer-inner .footer-body .company-info .company-name {
+          font-size: 16px;
+          font-weight: 700; }
+        .footer .footer-inner .footer-body .company-info .company-contact .company-contact-item {
+          font-size: 14px;
+          margin-bottom: 10px; }
+          .footer .footer-inner .footer-body .company-info .company-contact .company-contact-item a {
+            color: #b7b7b7; }
+        .footer .footer-inner .footer-body .company-info .social-list {
+          margin-top: 5px;
+          display: flex; }
+          .footer .footer-inner .footer-body .company-info .social-list .social-item {
+            margin-right: 15px; }
+      .footer .footer-inner .footer-body .footer-info .download-app .text {
+        font-size: 15px;
+        margin-bottom: 10px;
+        text-align: center; }
+      .footer .footer-inner .footer-body .footer-info .download-app .down-app-link {
+        display: flex;
+        justify-content: center; }
+        .footer .footer-inner .footer-body .footer-info .download-app .down-app-link .down-app-item:first-of-type {
+          margin-right: 15px; }
+        .footer .footer-inner .footer-body .footer-info .download-app .down-app-link .down-app-item img {
+          height: 48px;
+          max-width: 100%;
+          object-fit: contain; }
+      .footer .footer-inner .footer-body .footer-info .company-register {
+        display: flex;
+        margin-top: 15px;
+        justify-content: center; }
+        .footer .footer-inner .footer-body .footer-info .company-register a {
+          margin-right: 10px; }
+          .footer .footer-inner .footer-body .footer-info .company-register a:last-of-type {
+            margin-right: 0px; }
+          .footer .footer-inner .footer-body .footer-info .company-register a img {
+            height: 50px; }
+      .footer .footer-inner .footer-body .iso-logo {
+        display: flex;
+        justify-content: space-between;
+        margin: auto;
+        margin-top: 15px;
+        width: 152px; }
+        .footer .footer-inner .footer-body .iso-logo .iso-item {
+          text-align: center; }
+          .footer .footer-inner .footer-body .iso-logo .iso-item img {
+            height: 65px; }
+          .footer .footer-inner .footer-body .iso-logo .iso-item span {
+            display: block;
+            font-size: 10px;
+            font-weight: 600;
+            margin-top: 2px; }
+  .footer .copyright {
+    background: #000000;
+    text-align: center;
+    padding: 15px 0px;
+    color: #fff; }
+    .footer .copyright span {
+      display: block; }
+      .footer .copyright span i {
+        color: #FA1492; }
+
+@media only screen and (max-width: 1199px) {
+  .footer .footer-inner .footer-top .footer-logo img {
+    width: 150px; }
+  .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item {
+    margin-right: 15px; }
+    .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item a {
+      font-size: 13px; } }
+@media only screen and (max-width: 992px) {
+  .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item {
+    margin-right: 10px; }
+    .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item a {
+      font-size: 12px; } }
+@media only screen and (max-width: 768px) {
+  .footer {
+    padding-top: 30px; }
+    .footer .footer-inner {
+      padding-bottom: 0px; }
+      .footer .footer-inner .footer-top {
+        display: block;
+        padding-bottom: 0px;
+        margin-bottom: 20px; }
+        .footer .footer-inner .footer-top .footer-logo {
+          margin-bottom: 15px; }
+        .footer .footer-inner .footer-top .footer-nav .footer-nav-menu {
+          display: block; }
+          .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item {
+            margin-bottom: 10px; }
+            .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item:after {
+              display: none; }
+            .footer .footer-inner .footer-top .footer-nav .footer-nav-menu .footer-nav-menu-item a {
+              font-size: 12px; }
+      .footer .footer-inner .footer-body {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap; }
+        .footer .footer-inner .footer-body .company-info {
+          width: 100%;
+          order: 2; }
+          .footer .footer-inner .footer-body .company-info .company-name {
+            font-size: 14px; }
+          .footer .footer-inner .footer-body .company-info .company-contact {
+            font-size: 12px; }
+        .footer .footer-inner .footer-body .footer-info {
+          width: 100%;
+          order: 1;
+          margin-bottom: 30px; }
+          .footer .footer-inner .footer-body .footer-info .download-app .text {
+            text-align: left; }
+          .footer .footer-inner .footer-body .footer-info .download-app .down-app-link {
+            justify-content: flex-start; }
+          .footer .footer-inner .footer-body .footer-info .company-register {
+            justify-content: flex-start; }
+          .footer .footer-inner .footer-body .footer-info .iso-logo {
+            margin-left: 0px; }
+            .footer .footer-inner .footer-body .footer-info .iso-logo .iso-item {
+              text-align: center; }
+              .footer .footer-inner .footer-body .footer-info .iso-logo .iso-item img {
+                height: 50px; }
+              .footer .footer-inner .footer-body .footer-info .iso-logo .iso-item span {
+                display: block;
+                font-size: 10px;
+                font-weight: 600;
+                margin-top: 2px; } }
+@media only screen and (max-width: 340px) {
+  .footer .footer-inner .footer-body .footer-info .company-register a img {
+    height: 42px; } }
+
+/*# sourceMappingURL=footer.css.map */

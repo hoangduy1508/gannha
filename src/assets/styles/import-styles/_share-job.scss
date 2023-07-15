@@ -1,0 +1,148 @@
+.job-detail {
+    .job-detail-box {
+        margin-top: 30px;
+        border-radius: 8px;
+        border: 2px solid #ededed;
+        padding: 20px;
+    }
+
+    .job-general-info {
+        .job-general-info-head {
+            .job-head-text {
+                color: #8f8c8c;
+                font-size: 16px;
+            }
+            .job-name {
+                color: #404040;
+                font-size: 24px;
+                font-weight: 700;
+                margin-top: 7px;
+            }
+            .job-salary {
+                color: #1778f2;
+                font-size: 18px;
+                font-weight: 700;
+            }
+        }
+        .job-general-info-body {
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 20px;
+            .job-general-info-body-item {
+                width: 42%;
+                display: flex;
+                align-items: center;
+                color: #404040;
+                margin-bottom: 8px;
+                .icon {
+                }
+                .text {
+                    font-size: 16px;
+                    margin-left: 10px;
+                }
+            }
+        }
+    }
+    .job-working-address {
+        .job-address-title {
+            display: flex;
+            align-items: center;
+            font-size: 20px;
+            color: #404040;
+            font-weight: 700;
+            .icon {
+                margin-right: 10px;
+            }
+        }
+        .job-address {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+    }
+    .job-advanced-info {
+        margin-bottom: 30px;
+        .job-advanced-info-box {
+            border-bottom: 2px solid #ededed;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+            &:last-of-type {
+                border-bottom: none;
+                padding-bottom: 0px;
+                margin-bottom: 0px;
+            }
+            .job-advanced-info-title {
+                display: flex;
+                align-items: center;
+                font-size: 20px;
+                margin-bottom: 10px;
+                .icon {
+                    margin-right: 10px;
+                }
+            }
+            .job-advanced-info-content {
+                font-size: 18px;
+                &.job-requirement-content {
+                    white-space: pre-wrap;
+                }
+                &.job-description-content {
+                    white-space: pre-wrap;
+                }
+                &.job-benefit-content {
+                    .job-benefit-tag-list {
+                        display: flex;
+                        flex-wrap: wrap;
+                        .job-benefit-tag-item {
+                            border-radius: 20px;
+                            border: 2px solid #ededed;
+                            padding: 2px 13px;
+                            margin-left: 10px;
+                            margin-bottom: 10px;
+                            font-weight: 500;
+                            font-size: 18px;
+                            &:hover {
+                                background: #ededed;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+        .job-general-info {
+            .job-general-info-head {
+                .job-head-text {
+                }
+                .job-name {
+                }
+                .job-salary {
+                }
+            }
+            .job-general-info-body {
+                margin-top: 15px;
+                .job-general-info-body-item {
+                    width: 50%;
+                    display: flex;
+                    align-items: center;
+                    color: #404040;
+                    margin-bottom: 8px;
+                    .icon {
+                    }
+                    .text {
+                        font-size: 14px;
+                        margin-left: 10px;
+                    }
+                }
+            }
+        }
+    }
+}
+.apply-buttons-wrapper {
+    position: sticky;
+    bottom: 10px;
+    z-index: 998;
+    .btn{
+        padding: 14px;
+    }
+}

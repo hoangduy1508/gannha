@@ -1,0 +1,186 @@
+{
+    "data": [
+        {
+            "id": "gn_faq_acc",
+            "category": "Tài khoản",
+            "questions": [
+                {
+                    "id": "gn_faq_acc_01",
+                    "title": "Làm cách nào để tôi đăng ký tài khoản trên ứng dụng gannha.com ?",
+                    "content": "<li><strong>Bước 1:</strong> Chọn biểu tượng 3 gạch ngang ở b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại.</li><li><strong>Bước 2:</strong> Bấm v&agrave;o \"Đăng nhập\".</li><li><strong>Bước 3:</strong> Nhập SĐT để đăng k&yacute;. Hoặc đăng k&yacute; th&ocirc;ng qua t&agrave;i khoản Facebook/ Google.</li></ul><p>Người d&ugrave;ng lưu &yacute; m&atilde; x&aacute;c thực sẽ được gửi qua số điện thoại v&agrave; c&oacute; hiệu lực thời gian ngắn. Để tr&aacute;nh m&atilde; hết hiệu lực qu&yacute; kh&aacute;ch vui l&ograve;ng nhập ngay khi nhận được m&atilde;.</p>"
+                },
+                {
+                    "id": "gn_faq_acc_02",
+                    "title": "Tại sao tôi nên đăng ký tài khoản trên gannha.com ?",
+                    "content": "<p><strong>Một số t&iacute;nh năng của gannha.com bắt buộc người d&ugrave;ng cần phải c&oacute; t&agrave;i khoản:&nbsp;</strong></p><ul><li>Đặt h&agrave;ng/Mua h&agrave;ng tr&ecirc;n ứng dụng gannha.com</li><li>Ứng tuyển việc l&agrave;m tr&ecirc;n ứng dụng gannha.com</li><li>Theo d&otilde;i t&igrave;nh trạng đơn h&agrave;ng, cuộc hẹn của m&igrave;nh tr&ecirc;n ứng dụng gannha.com v&agrave; c&aacute;c t&iacute;nh năng kh&aacute;c.</li></ul>"
+                },
+                {
+                    "id": "gn_faq_acc_03",
+                    "title": "Làm thế nào để tôi quản lý thông tin trong tài khoản ?",
+                    "content": "<p><strong>Sau khi ho&agrave;n tất qu&aacute; tr&igrave;nh tạo t&agrave;i khoản th&agrave;nh c&ocirc;ng. Người d&ugrave;ng c&oacute; thể kiểm tra v&agrave; theo d&otilde;i th&ocirc;ng tin t&agrave;i khoản ở gannha.com bằng c&aacute;ch:</strong></p><ul><li><strong>Bước 1</strong>: Chọn biểu tượng 3 gạch ngang b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại</li><li><strong>Bước 2</strong>: Click v&agrave;o h&igrave;nh avata</li><li><strong>Bước 3</strong>: Kiểm tra v&agrave; cập nhật th&ocirc;ng tin</li></ul>"
+                },
+                {
+                    "id": "gn_faq_acc_04",
+                    "title": "Tôi không nhận được mã OTP khi đăng ký tài khoản ?",
+                    "content": "<p>Số điện thoại đ&uacute;ng để nhận được m&atilde; x&aacute;c minh phải l&agrave; số điện thoại Người d&ugrave;ng đ&atilde; d&ugrave;ng để đăng k&yacute; t&agrave;i khoản gannha.com. <strong>Nếu kh&ocirc;ng nhận được m&atilde; x&aacute;c minh (OTP) bằng số điện thoại : </strong></p><ol><li>Thử nhập lại ch&iacute;nh x&aacute;c một lần nữa số điện thoại đ&atilde; đăng k&yacute; t&agrave;i khoản gannha.com</li><li>Thử đăng nhập theo c&aacute;ch kh&aacute;c như: Đăng nhập bằng Facebook/ t&agrave;i khoản Google</li><li>Li&ecirc;n hệ với bộ phận Chăm s&oacute;c kh&aacute;ch h&agrave;ng để được hỗ trợ.</li></ol>"
+                }
+            ]
+        },
+        {
+            "id": "gn_faq_order",
+            "category": "Đặt hàng/ Thanh toán",
+            "questions": [
+                {
+                    "id": "gn_faq_order_01",
+                    "title": "Hướng dẫn đặt mua hàng trên gannha.com",
+                    "content": "<p><strong>Để đặt h&agrave;ng/mua h&agrave;ng Người d&ugrave;ng tham khảo thực hiện c&aacute;c bước như sau:</strong></p><p><strong>Bước 1:</strong> T&igrave;m kiếm thương hiệu, sản phẩm cần mua</p><p><em>Người d&ugrave;ng c&oacute; thể t&igrave;m thương hiệu, sản phẩm cần mua qua 2 c&aacute;c</em>h:</p><ol><li>G&otilde; t&ecirc;n thương hiệu tr&ecirc;n thanh t&igrave;m kiếm</li><li>T&igrave;m theo danh mục</li></ol><p><span style=\"text-decoration: underline;\"><em>a. Đối với c&aacute;c cửa h&agrave;ng đ&atilde; c&oacute; giỏ h&agrave;ng tr&ecirc;n gannha.com.</em></span></p><p><strong>Bước 2a:</strong> Sau khi đ&atilde; x&aacute;c định được cửa h&agrave;ng v&agrave; chương tr&igrave;nh b&aacute;n h&agrave;ng</p><ul><li>Bấm v&agrave;o \"<strong>Đặt mua ngay</strong>\" ở thanh biểu tượng m&agrave;u xanh l&aacute; c&acirc;y g&oacute;c dưới b&ecirc;n phải m&agrave;n h&igrave;nh</li><li>Chọn c&aacute;c sản phẩm cần mua v&agrave; \"<strong>Th&ecirc;m v&agrave;o giỏ h&agrave;ng</strong>\"</li></ul><p><strong>Bước 3a:</strong> Bấm v&agrave;o \"<strong>Xem giỏ h&agrave;ng</strong>\" để kiểm tra th&ocirc;ng tin đơn h&agrave;ng</p><ul><li>Chọn địa chỉ giao h&agrave;ng, đơn vị vận chuyển, phương thức thanh to&aacute;n ph&ugrave; hợp</li><li>Th&ecirc;m m&atilde; khuyến m&atilde;i (nếu c&oacute;)</li><li>Tăng giảm số lượng sản phẩm cần mua (nếu cần)</li></ul><p><strong>Bước 4a:</strong> Bấm \"<strong>Đặt h&agrave;ng</strong>\" để ho&agrave;n tất</p><p><em><span style=\"text-decoration: underline;\">b. Đối với c&aacute;c cửa h&agrave;ng chưa c&oacute; giỏ h&agrave;ng tr&ecirc;n gannha.com</span></em></p><p><strong>Bước 2b:</strong> Sau khi đ&atilde; x&aacute;c định được cửa h&agrave;ng v&agrave; chương tr&igrave;nh b&aacute;n h&agrave;ng</p><ul><li>Bấm&nbsp;v&agrave;o biểu tưởng m&agrave;u xanh l&aacute; c&acirc;y g&oacute;c dưới b&ecirc;n phải m&agrave;n h&igrave;nh</li></ul><p><strong>Bước 3b:</strong> T&ugrave;y v&agrave;o đặc trưng sản phẩm sẽ c&oacute; những h&igrave;nh thức mua h&agrave;ng kh&aacute;c nhau&nbsp;</p><ul><li>\"Li&ecirc;n hệ\" gọi điện trực tiếp tới của h&agrave;ng để đặt mua h&agrave;ng, đặt lịch hẹn, tư vấn mua h&agrave;ng</li><li>Hoặc dẫn qua trang web v&agrave; tiến h&agrave;ng đặt mua h&agrave;ng trực tiếp tr&ecirc;n web thương hiệu.</li></ul><p><strong>Bước 5:</strong> Chờ x&aacute;c nhận đơn đặt h&agrave;ng từ Người b&aacute;n</p>"
+                },
+                {
+                    "id": "gn_faq_order_02",
+                    "title": "Tôi có thể thêm/bớt sản phẩm, thay đổi địa chỉ giao hàng khi đã đặt hàng không ?",
+                    "content": "<p>gannha.com rất tiếc chưa hỗ trợ th&ecirc;m/bớt sản phẩm hoặc thay đổi địa chỉ giao h&agrave;ng sau khi đặt h&agrave;ng th&agrave;nh c&ocirc;ng, qu&yacute; kh&aacute;ch vui l&ograve;ng c&acirc;n nhắc lựa chọn địa chỉ ph&ugrave; hợp khi đặt h&agrave;ng.</p><p>Tuy nhi&ecirc;n một số trường hợp qu&yacute; kh&aacute;ch c&oacute; thể trao đổi với cửa h&agrave;ng để thay đổi đơn h&agrave;ng khi cửa h&agrave;ng gọi điện x&aacute;c nhận đơn trước khi giao.</p>"
+                },
+                {
+                    "id": "gn_faq_order_03",
+                    "title": "Làm thế nào để tôi hủy đơn hàng đã đặt ?",
+                    "content": "<p><strong>Ngay khi Người d&ugrave;ng ho&agrave;n tất \"Đặt h&agrave;ng\" c&oacute; thể lựa chọn </strong>\"<strong>Hủy đơn h&agrave;ng</strong>\"</p><ul><li>\"Hủy đơn h&agrave;ng\" ở cuối phần chi tiết đơn h&agrave;ng</li><li>Khi cửa h&agrave;ng gọi điện x&aacute;c nhận đơn h&agrave;ng</li><li>Hoặc li&ecirc;n hệ tổng đ&agrave;i gannha.com để được hỗ trợ</li></ul><p><em>Tuy nhi&ecirc;n: Kh&ocirc;ng thể hủy đơn h&agrave;ng, trong trường hợp Người mua đ&atilde; x&aacute;c nhận đặt mua đơn h&agrave;ng với cửa h&agrave;ng khi cửa h&agrave;ng gọi x&aacute;c nhận.</em></p>"
+                },
+                {
+                    "id": "gn_faq_order_04",
+                    "title": "Sao tôi đặt hàng lâu mà chưa thấy giao hàng ?",
+                    "content": "<p>Người d&ugrave;ng c&oacute; thể theo d&otilde;i tiến độ xử l&yacute; v&agrave; giao h&agrave;ng trong chi tiết giỏ h&agrave;ng.</p><p>Cần hỗ trợ kiểm tra đơn vui l&ograve;ng li&ecirc;n hệ tới cửa h&agrave;ng hoặc tổng đ&agrave;i gannha.com</p>"
+                },
+                {
+                    "id": "gn_faq_order_05",
+                    "title": "Thời gian giao hàng là bao lâu ?",
+                    "content": "<p>Thời gian giao h&agrave;ng phụ thuộc v&agrave;o sản phẩm/ dịch vụ đ&atilde; mua. Người mua c&oacute; thể y&ecirc;u cầu thời gian nhận h&agrave;ng với đơn vị b&aacute;n h&agrave;ng.</p>"
+                },
+                {
+                    "id": "gn_faq_order_06",
+                    "title": "gannha.com hỗ trợ các phương thức thanh toán nào ?",
+                    "content": "<p>gannha.com hỗ trợ c&aacute;c phương thức thanh to&aacute;n sau:</p><p>1. Thanh to&aacute;n khi nhận h&agrave;ng (COD): Nhận h&agrave;ng v&agrave; thanh to&aacute;n trực tiếp với t&agrave;i xế giao h&agrave;ng.</p><p>2. Thanh to&aacute;n qua thẻ ATM c&oacute; đăng k&yacute; thanh to&aacute;n trực tuyến (miễn ph&iacute; thanh to&aacute;n): Để sử dụng phương thức thanh to&aacute;n n&agrave;y, t&agrave;i khoản ng&acirc;n h&agrave;ng của qu&yacute; kh&aacute;ch cần đăng k&yacute; dịch vụ Internet Banking với ng&acirc;n h&agrave;ng.</p>"
+                },
+                {
+                    "id": "gn_faq_order_07",
+                    "title": "Làm thế nào để tôi xuất hóa đơn khi đặt hàng tại gannha.com ?",
+                    "content": "<p>gannha.com rất tiếc chưa hỗ trợ xuất h&oacute;a đơn khi đặt h&agrave;ng. Tuy nhi&ecirc;n một số trường hợp qu&yacute; kh&aacute;ch c&oacute; thể trao đổi với đơn vị b&aacute;n h&agrave;ng để y&ecirc;u cầu xuất h&oacute;a đơn.</p>"
+                },
+                {
+                    "id": "gn_faq_order_08",
+                    "title": "Tôi có thể kiểm tra sản phẩm khi nhận hàng không ?",
+                    "content": "<p>Nhằm đ&aacute;p ứng nhu cầu v&agrave; bảo vệ tối đa quyền lợi kh&aacute;ch h&agrave;ng khi sử dụng dịch vụ của gannha.com. Kh&aacute;ch h&agrave;ng khi nhận h&agrave;ng từ nh&acirc;n vi&ecirc;n vận chuyển c&oacute; thể mở ni&ecirc;m phong th&ugrave;ng h&agrave;ng để kiểm tra h&agrave;ng h&oacute;a.</p><p>Lưu &yacute;: việc kiểm tra sẽ kh&ocirc;ng bao gồm mở seal (ni&ecirc;m phong) ri&ecirc;ng của sản phẩm (g&acirc;y ảnh hưởng đến tem d&aacute;n ni&ecirc;m phong, bao b&igrave; sản phẩm,...) hay kiểm tra s&acirc;u (cắm điện, sử dụng thử, ghi ch&eacute;p dữ liệu,...).</p>"
+                },
+                {
+                    "id": "gn_faq_order_09",
+                    "title": "Làm thế nào để tôi theo dõi tiến trình xử lý đơn hàng ?",
+                    "content": "<p><strong>Để theo d&otilde;i đơn h&agrave;ng, Người d&ugrave;ng thưc hiện c&aacute;c bước sau: </strong></p><ul><li><strong>Bước 1:</strong> Chọn biểu tượng 3 gạch ngang ở b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại.</li><li><strong>Bước 2:</strong> V&agrave;o \"Hoạt động\" = &gt; chọn Đơn h&agrave;ng Người d&ugrave;ng cần xem</li><li><strong>Bước 3:</strong> Cập nhật t&igrave;nh trạng đơn h&agrave;ng</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "gn_faq_error",
+            "category": "Báo lỗi thông tin/kỹ thuật",
+            "questions": [
+                {
+                    "id": "gn_faq_error_1",
+                    "title": "Ứng dụng cùa tôi bị lỗi, tôi cần làm gì ?",
+                    "content": "<p>Để đăng ký tài khoản tại ứng dụng gannha.com, Bạn vui lòng thao tác như sau:</p><p>- Bước 1: Chọn biểu tượng... bên trái màn hình điện thoại. </p>"
+                },
+                {
+                    "id": "gn_faq_error_2",
+                    "title": "Tôi thấy thông tin của cửa hàng bị thiếu/sai, tôi nên làm gì ?",
+                    "content": "<p><strong>Nếu c&oacute; ph&aacute;t hiện c&aacute;c th&ocirc;ng tin bị sai/thiếu li&ecirc;n quan đến cửa h&agrave;ng được cập nhật tr&ecirc;n gannha.com, Người d&ugrave;ng vui l&ograve;ng:</strong></p><ol><li>B&aacute;o ngay cho Tổng đ&agrave;i chăm s&oacute;c kh&aacute;ch h&agrave;ng gannha.com&nbsp;</li><li>Hoặc v&agrave;o cửa hiệu bị sai/thiếu th&ocirc;ng tin.</li></ol><ul><li>Chọn \"<strong>G&oacute;p &yacute;</strong>\" v&agrave; tiến h&agrave;ng đ&aacute;nh gi&aacute; theo c&aacute;c mức độ ch&iacute;nh x&aacute;c</li><li>\"<strong>Gửi</strong>\" để ho&agrave;n th&agrave;nh.</li></ul>"
+                }
+            ]
+        },
+        {
+            "id": "gn_faq_funct",
+            "category": "Tính năng",
+            "questions": [
+                {
+                    "id": "gn_faq_funct_01",
+                    "title": "Làm thế nào để hẹn bạn bè thông qua ứng dụng gannha.com ?",
+                    "content": "<p><strong>Ứng dụng gannha.com c&oacute; 2 h&igrave;nh thức cho Người d&ugrave;ng hẹn bạn b&egrave; của m&igrave;nh:</strong>&nbsp;</p><p><strong>H&igrave;nh thức 1:</strong> Hẹn b&ecirc;n ngo&agrave;i cửa h&agrave;ng, tức l&agrave; hẹn bạn b&egrave; tại một vị tr&iacute; tr&ecirc;n bản đồ của gannha.com</p><p><strong>Bước 1:</strong> X&aacute;c định vị tr&iacute; cần hẹn tr&ecirc;n bản đồ giao diện m&agrave;n h&igrave;nh ch&iacute;nh của gannha.com.</p><p><strong>Bước 2:</strong> Chọn \"<strong>Hẹn tại đ&acirc;y</strong>\" v&agrave; nhập c&aacute;c th&ocirc;ng tin</p><ul><li>T&ecirc;n vị tr&iacute; điểm hẹn</li><li>Cập nhật lại địa chỉ điểm hẹn (Nếu vị tr&iacute; được ghim bị sai)</li><li>Thời gian cuộc hẹn</li><li>H&igrave;nh ảnh tại điểm hẹn (Nếu c&oacute;)</li></ul><p><strong>Bước 3:</strong> \"<strong>Hẹn ngay</strong>\" bạn b&egrave; th&ocirc;ng qua c&aacute;c nền tảng ứng dụng kh&aacute;c: Facebook, Messenger, Zalo,... v&agrave; chờ bạn b&egrave; chấp nhận th&ocirc;i n&agrave;o.</p><p><strong>H&igrave;nh thức 2:</strong> Hẹn b&ecirc;n trong cửa h&agrave;ng</p><p><strong>Bước 1:</strong> V&agrave;o b&ecirc;n trong cửa h&agrave;ng muốn hẹn bạn b&egrave;</p><p><strong>Bước 2:</strong> Chọn \"<strong>Hẹn</strong>\" v&agrave; nhập thời gian cuộc hẹn</p><p><strong>Bước 3:</strong> \"<strong>Hẹn ngay</strong>\" bạn b&egrave; th&ocirc;ng qua c&aacute;c nền tảng ứng dụng kh&aacute;c: Facebook, Messenger, Zalo,... v&agrave; chờ bạn b&egrave; chấp nhận th&ocirc;i n&agrave;o.</p>"
+                },
+                {
+                    "id": "gn_faq_funct_02",
+                    "title": "Tôi muốn xem lại các cuộc hẹn của mình ?",
+                    "content": "<p><strong>Để xem lại c&aacute;c cuộc hẹn sắp diễn ra hoặc cuộc hẹn đ&atilde; thực hiện, Người d&ugrave;ng thưc hiện c&aacute;c bước sau:</strong></p><ul><li><strong>Bước 1</strong>: Chọn biểu tượng 3 gạch ngang ở b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại.</li><li><strong>Bước 2:</strong> Bấm v&agrave;o \"<strong>Cuộc hẹn của t&ocirc;i</strong>\"</li><li><strong>Bước 3:</strong> Xem lại cuộc hẹn</li></ul>"
+                },
+                {
+                    "id": "gn_faq_funct_03",
+                    "title": "Ứng dụng gannha.com có cho gọi xe không ?",
+                    "content": "<p><strong>Hiện tại gannha.com hỗ trợ gọi xe Taxi cho Người d&ugrave;ng sử dụng t&iacute;nh năng \"Hẹn\".</strong> Để gọi xe Taxi đến điểm đ&atilde; hẹn bạn b&egrave;, Người d&ugrave;ng thực hiện c&aacute;c bước sau:</p><ul><li><strong> Bước 1:</strong> Chọn biểu tượng 3 gạch ngang ở b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại.</li><li><strong>Bước 2:</strong> Bấm v&agrave;o \"<strong>Cuộc hẹn của t&ocirc;i</strong>\" v&agrave; chọn cuộc hẹn bạn muốn tới.</li><li><strong>Bước 3:</strong> Click \"<strong>Gọi taxi</strong>\" v&agrave; chọn gọi h&atilde;ng taxi bạn muốn sử dụng</li></ul>"
+                },
+                {
+                    "id": "gn_faq_funct_04",
+                    "title": "Làm thế nào tìm một thương hiệu trên ứng dụng gannha.com ?",
+                    "content": "<p><strong>Người d&ugrave;ng c&oacute; thể t&igrave;m thương hiệu, sản phẩm cần mua qua 2 c&aacute;ch:</strong></p><ul><li><strong>C&aacute;ch 1:</strong> G&otilde; t&ecirc;n thương hiệu tr&ecirc;n thanh t&igrave;m kiếm</li><li><strong>C&aacute;ch 2:</strong> T&igrave;m theo danh mục</li></ul>"
+                },
+                {
+                    "id": "gn_faq_funct_05",
+                    "title": "Ứng dụng có dẫn đường tới cửa hàng không ?",
+                    "content": "<p>Để Người d&ugrave;ng thuận tiện hơn trong việc t&igrave;m đến cửa h&agrave;ng, gannha.com c&oacute; bản đồ hướng dẫn Người d&ugrave;ng đường đi tới cửa h&agrave;ng ngay tr&ecirc;n bản đồ của gannha.com v&agrave; đo lường khoảng c&aacute;ch th&ocirc;ng qua phương thức:</p><ol><li>D&agrave;nh cho người đi bộ</li><li>D&agrave;nh cho người đi xe</li></ol><p><strong>Để điều chỉnh phương thức di chuyển, Người d&ugrave;ng thực hiện c&aacute;c bước như sau: </strong></p><ul><li><strong>Bước 1:</strong> Chọn biểu tượng 3 gạch ngang ở b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại.</li><li><strong>Bước 2:</strong> V&agrave;o \"C&agrave;i đặt\"</li><li><strong>Bước 3:</strong> Chọn \"Phương tiện di chuyển mặc định\"</li></ul>"
+                },
+                {
+                    "id": "gn_faq_funct_06",
+                    "title": "Làm thế nào để tôi biết địa chỉ cụ thể của cửa hàng ở đâu ?",
+                    "content": "<p>Người d&ugrave;ng c&oacute; thể thấy địa chỉ cửa h&agrave;ng, c&ugrave;ng c&aacute;c tiện &iacute;ch c&oacute; tại cửa h&agrave;ng: Nhấp v&agrave;o n&uacute;t + xanh l&aacute; c&acirc;y</p>"
+                },
+                {
+                    "id": "gn_faq_funct_07",
+                    "title": "Tôi muốn biết cửa hàng này có cho thanh toán bằng thẻ không ?",
+                    "content": "<p><strong>Để biết c&aacute;c th&ocirc;ng tin tiện &iacute;ch c&oacute; tại cửa h&agrave;ng, người d&ugrave;ng: </strong></p><ul><li>Nhấp v&agrave;o n&uacute;t + xanh l&aacute; c&acirc;y</li><li>C&aacute;c tiện &iacute;ch được hiện l&ecirc;n, hoặc c&oacute; thể gọi điện trực tiếp tới cửa h&agrave;ng để hỏi.</li></ul>"
+                },
+                {
+                    "id": "gn_faq_funct_08",
+                    "title": "Làm thế nào để tôi biết các chương trình ưu đãi hấp dẫn hiện đang diễn ra tại gannha.com ?",
+                    "content": "<p><strong>Để biết c&aacute;c chương tr&igrave;nh ưu đ&atilde;i đang diễn ra tại gannha.com:</strong></p><ul><li>Nhấp v&agrave;o con C&uacute; để cập nhật lại c&aacute;c noty của gannha.com</li><li>Hoặc vuốt l&ecirc;n để kh&aacute;m ph&aacute; recomment</li></ul>"
+                },
+                {
+                    "id": "gn_faq_funct_09",
+                    "title": "Làm thế nào để tôi biết cửa hàng có chương trình ưu đãi mới ?",
+                    "content": "<p><strong>Để biết khi n&agrave;o cửa h&agrave;ng c&oacute; chương tr&igrave;nh ưu đ&atilde;i mới bạn c&oacute; thể chọn theo d&otilde;i thương hiệu/cửa h&agrave;ng:</strong></p><ul><li><strong>Bước 1:</strong> Nhấp v&agrave;o biểu tượng dấu cộng + m&agrave;u xanh l&aacute; c&acirc;y v&agrave; chọn \"Theo d&otilde;i\"</li><li><strong>Bước 2:</strong> Lựa chọn kiểu theo d&otilde;i ph&ugrave; hợp</li><li><strong>Bước 3:</strong> \"Cập nhật\" để ho&agrave;n th&agrave;nh.</li></ul><p><em>Như vậy khi cửa h&agrave;ng c&oacute; chương tr&igrave;nh ưu đ&atilde;i mới bạn sẽ nhận ngay th&ocirc;ng b&aacute;o từ app gannha.com</em></p>"
+                }
+            ]
+        },
+        {
+            "id": "gn_faq_job",
+            "category": "Tìm việc làm",
+            "questions": [
+                {
+                    "id": "gn_faq_job_01",
+                    "title": "Tôi muốn tìm một công việc gần nhà",
+                    "content": "<p><strong>T&igrave;m thương hiệu bạn muốn xin v&agrave;o l&agrave;m việc, v&agrave; chọn ứng tuyển v&agrave;o cửa h&agrave;ng bạn muốn:</strong></p><ul><li><strong>Bước 1:</strong> Nhấp v&agrave;o biểu tượng dấu cộng + m&agrave;u xanh l&aacute; c&acirc;y v&agrave; chọn \"<strong>Tuyển dụng</strong>\"</li><li><strong>Bước 2:</strong> V&agrave;o xem vị tr&iacute; tuyển dụng ph&ugrave; hợp</li><li><strong>Bước 3:</strong> Chọn \"<strong>Ứng tuyển ngay</strong>\" v&agrave; điền đầy đủ c&aacute;c th&ocirc;ng tin y&ecirc;u cầu</li><li><strong>Bước 4:</strong> \"<strong>Gửi th&ocirc;ng tin</strong>\" để ho&agrave;n th&agrave;nh.</li></ul><p>Sau khi ho&agrave;n tất, nh&agrave; tuyển dụng sẽ cố gắng phản hồi cho bạn trong khoảng thời gian sớm nhất.</p>"
+                },
+                {
+                    "id": "gn_faq_job_03",
+                    "title": "Tôi muốn biết khi nào cửa hàng cần tuyển dụng ?",
+                    "content": "<p><strong>Để biết khi n&agrave;o cửa h&agrave;ng cần tuyển dụng bạn c&oacute; thể chọn theo d&otilde;i thương hiệu/cửa h&agrave;ng: </strong></p><ul><li><strong>Bước 1</strong>: Nhấp v&agrave;o biểu tượng dấu cộng + m&agrave;u xanh l&aacute; c&acirc;y v&agrave; chọn \"<strong>Theo d&otilde;i</strong>\"</li><li><strong>Bước 2:</strong> Lựa chọn kiểu theo d&otilde;i ph&ugrave; hợp</li><li><strong>Bước 3:</strong> \"Cập nhật\" để ho&agrave;n th&agrave;nh.</li></ul><p>Như vậy khi cửa h&agrave;ng c&oacute; nhu cầu tuyển dụng bạn sẽ nhận ngay th&ocirc;ng b&aacute;o từ app gannha.com</p>"
+                },
+                {
+                    "id": "gn_faq_job_04",
+                    "title": "Tôi đã ứng tuyển vào công ty, không biết CV của tôi đã được duyệt chưa ?",
+                    "content": "<p><strong>Sau khi ứng tuyển bạn c&oacute; thể theo d&otilde;i đơn ứng tuyển trong hoạt động của m&igrave;nh. Người d&ugrave;ng thưc hiện c&aacute;c bước sau: </strong></p><ul><li><strong>Bước 1:</strong> Chọn biểu tượng 3 gạch ngang ở b&ecirc;n tr&aacute;i m&agrave;n h&igrave;nh điện thoại.</li><li><strong>Bước 2:</strong> V&agrave;o \"Hoạt động\" -&gt; chọn Việc l&agrave;m để cập nhật trạng th&aacute;i đơn ứng tuyển</li></ul>"
+                },
+                {
+                    "id": "gn_faq_job_05",
+                    "title": "Tôi muốn hủy theo dõi của thương hiệu/cửa hàng ?",
+                    "content": "<p><strong>Để HỦY theo d&otilde;i thương hiệu/cửa h&agrave;ng: </strong></p><ul><li><strong>Bước 1:</strong> Nhấp v&agrave;o biểu tượng dấu cộng + m&agrave;u xanh l&aacute; c&acirc;y v&agrave; chọn \"Đang theo d&otilde;i\"</li><li><strong>Bước 2:</strong> \"Hủy theo d&otilde;i\" chương tr&igrave;nh b&aacute;n h&agrave;ng hoặc chương tr&igrave;nh tuyển dụng m&agrave; bạn muốn.</li></ul>"
+                }
+            ]
+        },
+
+        {
+            "id": "gn_faq_support",
+            "category": "Liên hệ",
+            "questions": [
+                {
+                    "id": "gn_faq_support_01",
+                    "title": "Mọi thắc mắc, yêu cầu hỗ trợ",
+                    "content": "<p>Mọi thắc mắc, y&ecirc;u cầu hỗ trợ bạn vui l&ograve;ng:</p><ol><li>Gửi th&ocirc;ng tin về địa chỉ email: <a href=\"mailto:hotro@gannha.com\">hotro@gannha.com</a></li><li>Hoặc gọi tới hotline: 1900 5858 76</li><li>Hoặc li&ecirc;n hệ qua Fanpage:&nbsp;<a href=\"Mọi%20thắc%20mắc,%20y&ecirc;u%20cầu%20hỗ%20trợ%20bạn%20vui%20l&ograve;ng:%0a%20-%20Gửi%20th&ocirc;ng%20tin%20về%20địa%20chỉ%20email:%20hotro@gannha.com%0a%20-%20Hoặc%20gọi%20tới%20hotline:%201900%205858%2076%20%0a%20-%20Hoặc%20li&ecirc;n%20hệ%20qua%20Fanpage:%20m.me/gannhaVN\">m.me/gannhaVN</a></li></ol>"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+@import "./scope";
+
+.dialog-general-style {
+    max-width: unset;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dialog-lg {
+
+    .modal-dialog {
+        @extend .dialog-general-style;
+        width: 1120px;
+    }
+}
+
+.dialog-md {
+    .modal-dialog {
+        @extend .dialog-general-style;
+        width: 920px;
+    }
+}
+
+.dialog-sm {
+    .modal-dialog {
+        @extend .dialog-general-style;
+        width: 768px;
+    }
+}
+
+.dialog-xs {
+    .modal-dialog {
+        @extend .dialog-general-style;
+        width: 415px;
+    }
+}
+
+@media only screen and (max-width: $desktop_breakpoint) {
+    .dialog-lg {
+        .modal-dialog {
+            width: 90%;
+        }
+    }
+}
+
+@media only screen and (max-width: $large_sreen) {
+    .dialog-md {
+        .modal-dialog {
+            width: 90%;
+        }
+    }
+}
+
+@media only screen and (max-width: $medium_sreen) {
+    .dialog-sm {
+        .modal-dialog {
+            width: 90%;
+        }
+    }
+}
+
+@media only screen and (max-width: $small_sreen) {
+    .dialog-xs {
+        .modal-dialog {
+            width: 90%;
+        }
+    }
+}
+
+.modal-dialog {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.modal-content {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.dialog-content{
+    .dialog-line{
+        background-image: url(../images/dialog-line.png);
+        width: 100%;
+        height: 20px;
+        background-size: contain;
+        background-repeat-y: no-repeat;
+        &.dialog-line-header {
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+        }
+
+        &.dialog-line-footer {
+            border-bottom-left-radius: 15px;
+            border-bottom-right-radius: 15px;
+            background-position: bottom;
+        }
+    }
+    .dialog-header {
+        text-align: center;
+        position: relative;
+        margin-top: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        .dialog-title {
+            font-size: 25px;
+            font-weight: 700;
+            font-family: 'Montserrat',sans-serif;
+            color: #1778F2;
+        }
+        .dialog-sub-title {
+            font-size: 20px;
+            font-family: 'Montserrat',sans-serif;
+            color: #828282;
+            font-weight: 500;
+        }
+        .dialog-close {
+            position: absolute;
+            right: 40px;
+            top: 0px;
+            font-size: 30px;
+            .btn {
+                padding: 0px;
+                img{
+                    width: 20px;
+                }
+            }
+        }
+    }
+    .dialog-body {
+        padding: 15px;
+    }
+
+    @media only screen and (max-width: $small_sreen) {
+        .dialog-header {
+            .dialog-close {
+                position: absolute;
+                right: 14px;
+                top: -23px;
+                .btn {
+                    padding: 0px;
+                    img{
+                        width: 15px;
+                    }
+                }
+            }
+        }
+
+    }
+
+}
+
+
+

@@ -1,0 +1,22 @@
+@import 'normalize.css';
+@import "~bootstrap/scss/bootstrap";
+:root {
+    --primary: #fa1492;
+    
+
+    --font-family: 'Roboto',sans-serif;
+    
+  
+}
+
+body{
+    font-family: var(--font-family);
+}
+
+.container{
+
+}
+
+.main{
+    background: red;
+}

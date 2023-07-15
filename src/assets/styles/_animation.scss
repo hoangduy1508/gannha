@@ -1,0 +1,14 @@
+@keyframes actived-dot {
+    0% {
+        width: 15px;
+        height: 15px;
+    }
+    50% {
+        width: 8px;
+        height: 8px;
+    }
+    100% {
+        width: 15px;
+        height: 15px;
+    }
+}

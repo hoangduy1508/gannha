@@ -1,0 +1,283 @@
+@import "./scope";
+
+.footer {
+    padding-top: 50px;
+    background-color: #1d1c1c;
+    color: #b7b7b7;
+    .footer-inner {
+        padding-bottom: 15px;
+        .footer-top {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid #424141;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+            align-items: center;
+            .footer-logo {
+                img {
+                    width: 180px;
+                }
+            }
+            .footer-nav {
+                .footer-nav-menu {
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;
+                    margin-bottom: 0px;
+                    .footer-nav-menu-item {
+                        margin-right: 20px;
+                        position: relative;
+                        &:after {
+                            content: "";
+                            position: absolute;
+                            top: calc(50% - 6px);
+                            right: -12px;
+                            height: 13px;
+                            width: 2px;
+                            background: #b7b7b7;
+                        }
+                        &:last-of-type {
+                            &:after {
+                                display: none;
+                            }
+                            margin-right: 0px;
+                        }
+                        a {
+                            font-size: 14px;
+                            font-weight: 700;
+
+                            color: #b7b7b7;
+                        }
+                    }
+                }
+            }
+        }
+        .footer-body {
+            display: flex;
+            justify-content: space-between;
+
+            .company-info {
+                padding-right: 30px;
+                .company-name {
+                    font-size: 16px;
+                    font-weight: 700;
+                }
+                .company-contact {
+                    .company-contact-item {
+                        font-size: 14px;
+                        margin-bottom: 10px;
+                        a {
+                            color: #b7b7b7;
+                        }
+                    }
+                }
+                .social-list {
+                    margin-top: 5px;
+                    display: flex;
+                    .social-item {
+                        margin-right: 15px;
+                    }
+                }
+            }
+
+            .footer-info {
+                .download-app {
+                    .text {
+                        font-size: 15px;
+                        margin-bottom: 10px;
+                        text-align: center;
+                    }
+                    .down-app-link {
+                        display: flex;
+                        justify-content: center;
+                        .down-app-item {
+                            &:first-of-type {
+                                margin-right: 15px;
+                            }
+                            img {
+                                height: 48px;
+                                max-width: 100%;
+                                object-fit: contain;
+                            }
+                        }
+                    }
+                }
+                .company-register {
+                    display: flex;
+                    margin-top: 15px;
+                    justify-content: center;
+                    a {
+                        margin-right: 10px;
+                        &:last-of-type {
+                            margin-right: 0px;
+                        }
+                        img {
+                            height: 50px;
+                        }
+                    }
+                }
+            }
+            .iso-logo{
+                display: flex;
+                justify-content: space-between;
+                margin: auto;
+                margin-top: 15px;
+                width: 152px;
+                .iso-item{
+                    text-align: center;
+                    img{
+                        height: 65px;
+                    }
+                    span{
+                        display: block;
+                        font-size: 10px;
+                        font-weight: 600;
+                        margin-top: 2px;
+                    }
+                }
+            }
+        }
+    }
+    .copyright {
+        background: #000000;
+        text-align: center;
+        padding: 15px 0px;
+        color: #fff;
+        span {
+            display: block;
+            i {
+                color: $gannha_color;
+            }
+        }
+    }
+}
+@media only screen and (max-width: $desktop_breakpoint) {
+    .footer {
+        .footer-inner {
+            .footer-top {
+                .footer-logo {
+                    img {
+                        width: 150px;
+                    }
+                }
+                .footer-nav {
+                    .footer-nav-menu {
+                        .footer-nav-menu-item {
+                            margin-right: 15px;
+                            a {
+                                font-size: 13px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $large_sreen) {
+    .footer {
+        .footer-inner {
+            .footer-top {
+                .footer-nav {
+                    .footer-nav-menu {
+                        .footer-nav-menu-item {
+                            margin-right: 10px;
+
+                            a {
+                                font-size: 12px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: $medium_sreen) {
+    .footer {
+        padding-top: 30px;
+        .footer-inner {
+            padding-bottom: 0px;
+            .footer-top {
+                display: block;
+                padding-bottom: 0px;
+                margin-bottom: 20px;
+                .footer-logo {
+                    margin-bottom: 15px;
+                }
+                .footer-nav {
+                    .footer-nav-menu {
+                        display: block;
+                        .footer-nav-menu-item {
+                            margin-bottom: 10px;
+                            &:after {
+                               display: none;
+                            }
+                            a {
+                                font-size: 12px;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .footer-body {
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                .company-info {
+                    width: 100%;
+                    order: 2;
+                    .company-name {
+                        font-size: 14px;
+                    }
+                    .company-contact {
+                        font-size: 12px;
+                    }
+                }
+
+                .footer-info {
+                    width: 100%;
+                    order: 1;
+                    margin-bottom: 30px;
+                    .download-app {
+                        .text {
+
+                            text-align: left;
+                        }
+                        .down-app-link {
+
+                            justify-content: flex-start;
+
+                        }
+                    }
+                    .company-register{
+                        justify-content: flex-start;
+                    }
+                    .iso-logo{
+                        margin-left: 0px;
+                        .iso-item{
+                            text-align: center;
+                            img{
+                                height: 50px;
+                            }
+                            span{
+                                display: block;
+                                font-size: 10px;
+                                font-weight: 600;
+                                margin-top: 2px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media only screen and (max-width: 340px) {
+    .footer .footer-inner .footer-body .footer-info .company-register a img {
+        height: 42px;
+    }
+}
