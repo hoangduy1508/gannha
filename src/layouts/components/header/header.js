@@ -1,7 +1,10 @@
 
 import Account from "~/layouts/components/account";
 import LanguageSelector from "../languageSelector/languageSelector";
+import config from '~/config';
+import { Link } from 'react-router-dom';
 import './header.scss';
+
 
 function Header() {
     return ( 
@@ -9,9 +12,9 @@ function Header() {
             <div className="container">
                 <div className="header_inner">
                     <div className="logo-box header-logo">
-                        <a >
-                            <img src="assets/images/icons/logo_gannha.svg"  alt="gannha logo" />
-                        </a>
+                    <Link to={config.routes.home} >
+                        <img src='../assets/images/icons/logo_gannha.svg'  alt="gannha logo" />
+                    </Link>
                     </div>
                     <div className="header-menu">
                         

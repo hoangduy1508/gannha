@@ -1,0 +1,87 @@
+
+::ng-deep .language-selector-popover-content {
+    .popover-body{
+        padding: 0px;
+    }
+    max-width: 100%;
+    min-width: 170px;
+    margin-top: 16px;
+
+}
+.scrollbar{
+    &::-webkit-scrollbar-track{
+
+        background-color: #ffffff;
+    }
+    &::-webkit-scrollbar
+    {
+        width: 5px;
+        background-color: #ffffff;
+    }
+
+    &::-webkit-scrollbar-thumb
+    {
+        background-color: #b4eaf5;
+    }
+}
+
+
+.language-selector-container{
+    position: relative;
+    .language-selector{
+        padding:0px;
+        padding-right: 10px;
+        max-width: 37px;
+        position: relative;
+        background: #fff;
+        .icon {
+            position: absolute;
+            top: 2px;
+            right: -14px;
+            img{
+                width: 15px;
+            }
+
+
+        }
+        .selected-language{
+            img{
+                width: 26px;
+            }
+
+        }
+    }
+    
+        .language-list{
+            max-height: 321px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            border-radius: 5px;
+            width: 200px;
+            border: 1px solid #c5c5c5;
+            @extend .scrollbar;
+           
+            .language-item {
+                cursor: pointer;
+                padding: 10px 20px;
+                font-size: 16px;
+                display: flex;
+                background-color: #fff;
+                border-bottom: 1px solid #dedede;
+                cursor: pointer;
+                &:hover{
+                    font-weight: 700;
+                    background-color: #e5e5e5;
+                }
+                .icon {
+                    margin-right: 10px;
+                    img{
+                        width: 26px;
+                    }
+                }
+            }
+        }
+    
+
+}
+

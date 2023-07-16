@@ -1,0 +1,12 @@
+.login-box {
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    .icon{
+        margin-right: 5px;
+        img{
+            width: 20px;
+        }
+    }
+}
+

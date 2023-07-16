@@ -1,22 +1,24 @@
-@import 'normalize.css';
+@import "normalize.css";
 @import "~bootstrap/scss/bootstrap";
 :root {
     --primary: #fa1492;
-    
 
-    --font-family: 'Roboto',sans-serif;
-    
-  
+    --font-family: "Roboto", sans-serif;
 }
 
-body{
+body {
     font-family: var(--font-family);
 }
 
-.container{
-
+.container {
 }
 
+
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+}
 .main{
-    background: red;
+    min-height: 70vh;
 }
